@@ -1,0 +1,71 @@
+Route,NDO,Channel,Load Factor,Period
+BOMDEL,0,Direct (Website & App),50,Historical
+BOMDEL,8,Direct (Website & App),44,Historical
+BOMDEL,15,Direct (Website & App),32,Historical
+BOMDEL,31,Direct (Website & App),25,Historical
+BOMDEL,60,Direct (Website & App),12,Historical
+BOMDEL,90,Direct (Website & App),5,Historical
+BOMDEL,120,Direct (Website & App),1,Historical
+BOMDEL,0,B2C OTA,32,Historical
+BOMDEL,8,B2C OTA,28,Historical
+BOMDEL,15,B2C OTA,23,Historical
+BOMDEL,31,B2C OTA,15,Historical
+BOMDEL,60,B2C OTA,5,Historical
+BOMDEL,90,B2C OTA,0,Historical
+BOMDEL,120,B2C OTA,0,Historical
+BOMDEL,0,B2B OTA,8,Historical
+BOMDEL,8,B2B OTA,8,Historical
+BOMDEL,15,B2B OTA,7,Historical
+BOMDEL,31,B2B OTA,7,Historical
+BOMDEL,60,B2B OTA,4,Historical
+BOMDEL,90,B2B OTA,4,Historical
+BOMDEL,120,B2B OTA,2,Historical
+BOMDEL,0,Brick & Mortar (Agency login),5,Historical
+BOMDEL,8,Brick & Mortar (Agency login),3,Historical
+BOMDEL,15,Brick & Mortar (Agency login),1,Historical
+BOMDEL,31,Brick & Mortar (Agency login),0,Historical
+BOMDEL,60,Brick & Mortar (Agency login),0,Historical
+BOMDEL,90,Brick & Mortar (Agency login),0,Historical
+BOMDEL,120,Brick & Mortar (Agency login),0,Historical
+BOMDEL,0,TMC (Travel Mgt. Companies),5,Historical
+BOMDEL,8,TMC (Travel Mgt. Companies),5,Historical
+BOMDEL,15,TMC (Travel Mgt. Companies),5,Historical
+BOMDEL,31,TMC (Travel Mgt. Companies),5,Historical
+BOMDEL,60,TMC (Travel Mgt. Companies),5,Historical
+BOMDEL,90,TMC (Travel Mgt. Companies),5,Historical
+BOMDEL,120,TMC (Travel Mgt. Companies),5,Historical
+BOMDEL,15,Direct (Website & App),25,Current
+BOMDEL,31,Direct (Website & App),15,Current
+BOMDEL,60,Direct (Website & App),7,Current
+BOMDEL,90,Direct (Website & App),2,Current
+BOMDEL,120,Direct (Website & App),1,Current
+BOMDEL,15,B2C OTA,15,Current
+BOMDEL,31,B2C OTA,8,Current
+BOMDEL,60,B2C OTA,2,Current
+BOMDEL,90,B2C OTA,0,Current
+BOMDEL,120,B2C OTA,0,Current
+BOMDEL,15,B2B OTA,7,Current
+BOMDEL,31,B2B OTA,7,Current
+BOMDEL,60,B2B OTA,3,Current
+BOMDEL,90,B2B OTA,2,Current
+BOMDEL,120,B2B OTA,1,Current
+BOMDEL,15,Brick & Mortar (Agency login),2,Current
+BOMDEL,31,Brick & Mortar (Agency login),1,Current
+BOMDEL,60,Brick & Mortar (Agency login),0,Current
+BOMDEL,90,Brick & Mortar (Agency login),0,Current
+BOMDEL,120,Brick & Mortar (Agency login),0,Current
+BOMDEL,0,Direct (Website & App),25,Current
+BOMDEL,8,Direct (Website & App),25,Current
+BOMDEL,0,B2C OTA,15,Current
+BOMDEL,8,B2C OTA,15,Current
+BOMDEL,0,B2B OTA,7,Current
+BOMDEL,8,B2B OTA,7,Current
+BOMDEL,0,Brick & Mortar (Agency login),2,Current
+BOMDEL,8,Brick & Mortar (Agency login),2,Current
+BOMDEL,0,TMC (Travel Mgt. Companies),2,Current
+BOMDEL,8,TMC (Travel Mgt. Companies),2,Current
+BOMDEL,15,TMC (Travel Mgt. Companies),2,Current
+BOMDEL,31,TMC (Travel Mgt. Companies),1,Current
+BOMDEL,60,TMC (Travel Mgt. Companies),0,Current
+BOMDEL,90,TMC (Travel Mgt. Companies),0,Current
+BOMDEL,120,TMC (Travel Mgt. Companies),0,Current
